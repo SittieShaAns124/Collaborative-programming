@@ -40,7 +40,7 @@ def adjectival_equivalent(percent):
          print(f"Q2 Final Grade: {q2:.2f}")
          print(f"Q3 Final Grade: {q3:.2f}")
          print(f"Q4 Final Grade: {q4:.2f}")
-         print(f"Fina Quarter Grade Equivalent: {equivalent:.2f}")
+         print(f"Final Quarter Grade Equivalent: {equivalent:.2f}")
          print(f"Adjectival Equivalent: {adjective}")
 
 compute_final_quarter_grade()
